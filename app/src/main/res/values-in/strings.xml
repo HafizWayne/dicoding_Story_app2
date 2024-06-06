@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Aplikasi Cerita Dicoding</string>
+        <string name="signup">Daftar</string>
+        <string name="login">Masuk</string>
+        <string name="message_welcome_page">disini ada bisa bebas berbagi cerita bersama kami</string>
+        <string name="title_welcome_page">Selamat datang di Dicoding Story App!</string>
+        <string name="title_signup_page">Silakan lengkapi data pribadi Anda di bawah ini</string>
+        <string name="email">Email</string>
+        <string name="password">Kata Sandi</string>
+        <string name="message_login_page">Silakan masukkan data Anda terlebih dahulu</string>
+        <string name="title_login_page">Apakah Anda siap untuk berbagi cerita?</string>
+        <string name="name">Nama</string>
+        <string name="logout">Keluar</string>
+        <string name="desc">deskripsi</string>
+        <string name="tittle">judul\n</string>
+        <string name="no_media_selected">Tidak Ada Media yang Dipilih</string>
+        <string name="camera">Kamera</string>
+        <string name="gallery">Galeri</string>
+        <string name="upload">Unggah</string>
+        <string name="crop_error_message">Kesalahan Memotong Gambar</string>
+</resources>

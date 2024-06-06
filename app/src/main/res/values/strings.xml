@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dicoding Story App</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Welcome, this is the place where you can share your story!</string>
+    <string name="title_welcome_page">Welcome to Dicoding Story App!</string>
+    <string name="title_signup_page">Please complete your personal data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please input your data first</string>
+    <string name="title_login_page">Are you ready to share your stories?</string>
+    <string name="name">Nama</string>
+    <string name="logout">Exit</string>
+    <string name="desc">description</string>
+    <string name="tittle">title\n</string>
+    <string name="no_media_selected">No Media Selected</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="crop_error_message">Error Cropping Images</string>
+    <string name="title_activity_maps">Stories Maps</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="retry">retry</string>
+</resources>
